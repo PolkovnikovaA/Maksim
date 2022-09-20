@@ -21,7 +21,7 @@ namespace Ekz
         static void Main(string[] args)
         {
             Console.WriteLine("Выберите один из видов трубы:\n1. PN10\n2. PN16\n3. PN20\n4. PN25"); //efgvkhbdefghbwdrfoguhwefughbeouew
-            Console.Write("Ваш выбор: ");
+            Console.Write("Ваш выбор: ");   //ad;fiughaifghiarfhg
             int truba = int.Parse(Console.ReadLine());
 
             Console.Write("Введите толщину стенки: ");
